@@ -11,7 +11,7 @@ export default function Home() {
       <div className=" flex ">
         <nav className="flex flex-center list-none  ">
           <h1 className=" text-[24px] font-bold text-[#ffffff] pt-[13px] pl-[180px]">
-            Brand Name
+            BrandName
           </h1>
           <div className="gap-[21px] flex text-[14px]  font-light text-[#ffffff] pl-[59px] pt-[23px]">
             <li className="">
